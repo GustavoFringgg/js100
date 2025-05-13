@@ -1,6 +1,6 @@
 const data = [
   { Factory_SubID: 1, Factory_Name: "A公司", LineID: 101, LineName: "Line A1" },
-  { Factory_SubID: 1, Factory_Name: "A公司", LineID: 102, LineName: "Line A2" },
+  { Factory_SubID: 3, Factory_Name: "c公司", LineID: 102, LineName: "Line A2" },
   { Factory_SubID: 2, Factory_Name: "B公司", LineID: null, LineName: null },
 ];
 
