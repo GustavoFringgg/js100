@@ -24,4 +24,7 @@ function findNegative(arr) {
   return null;
 }
 
-console.log(findNegative([1, 2, 3]));
+const a = [1, 2, 3];
+console.log(a.find((a) => a > 1));
+
+// console.log(findNegative([1, 2, 3]));
